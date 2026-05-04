@@ -1,0 +1,14 @@
+C:\Users\jadg\Desktop\IntroProg\While1\bin\Debug\net10.0\While1.exe
+C:\Users\jadg\Desktop\IntroProg\While1\bin\Debug\net10.0\While1.deps.json
+C:\Users\jadg\Desktop\IntroProg\While1\bin\Debug\net10.0\While1.runtimeconfig.json
+C:\Users\jadg\Desktop\IntroProg\While1\bin\Debug\net10.0\While1.dll
+C:\Users\jadg\Desktop\IntroProg\While1\bin\Debug\net10.0\While1.pdb
+C:\Users\jadg\Desktop\IntroProg\While1\obj\Debug\net10.0\While1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadg\Desktop\IntroProg\While1\obj\Debug\net10.0\While1.AssemblyInfoInputs.cache
+C:\Users\jadg\Desktop\IntroProg\While1\obj\Debug\net10.0\While1.AssemblyInfo.cs
+C:\Users\jadg\Desktop\IntroProg\While1\obj\Debug\net10.0\While1.csproj.CoreCompileInputs.cache
+C:\Users\jadg\Desktop\IntroProg\While1\obj\Debug\net10.0\While1.dll
+C:\Users\jadg\Desktop\IntroProg\While1\obj\Debug\net10.0\refint\While1.dll
+C:\Users\jadg\Desktop\IntroProg\While1\obj\Debug\net10.0\While1.pdb
+C:\Users\jadg\Desktop\IntroProg\While1\obj\Debug\net10.0\While1.genruntimeconfig.cache
+C:\Users\jadg\Desktop\IntroProg\While1\obj\Debug\net10.0\ref\While1.dll
