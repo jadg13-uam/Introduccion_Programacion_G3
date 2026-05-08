@@ -1,0 +1,15 @@
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\bin\Debug\net10.0\SumaVector.exe
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\bin\Debug\net10.0\SumaVector.deps.json
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\bin\Debug\net10.0\SumaVector.runtimeconfig.json
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\bin\Debug\net10.0\SumaVector.dll
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\bin\Debug\net10.0\SumaVector.pdb
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\obj\Debug\net10.0\SumaVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\obj\Debug\net10.0\SumaVector.AssemblyInfoInputs.cache
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\obj\Debug\net10.0\SumaVector.AssemblyInfo.cs
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\obj\Debug\net10.0\SumaVector.csproj.CoreCompileInputs.cache
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\obj\Debug\net10.0\SumaVector.sourcelink.json
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\obj\Debug\net10.0\SumaVector.dll
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\obj\Debug\net10.0\refint\SumaVector.dll
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\obj\Debug\net10.0\SumaVector.pdb
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\obj\Debug\net10.0\SumaVector.genruntimeconfig.cache
+C:\Users\jadg\Desktop\IntroProgG3\SumaVector\obj\Debug\net10.0\ref\SumaVector.dll
