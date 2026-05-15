@@ -1,0 +1,15 @@
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\bin\Debug\net10.0\Matriz3.exe
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\bin\Debug\net10.0\Matriz3.deps.json
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\bin\Debug\net10.0\Matriz3.runtimeconfig.json
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\bin\Debug\net10.0\Matriz3.dll
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\bin\Debug\net10.0\Matriz3.pdb
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\obj\Debug\net10.0\Matriz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\obj\Debug\net10.0\Matriz3.AssemblyInfoInputs.cache
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\obj\Debug\net10.0\Matriz3.AssemblyInfo.cs
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\obj\Debug\net10.0\Matriz3.csproj.CoreCompileInputs.cache
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\obj\Debug\net10.0\Matriz3.sourcelink.json
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\obj\Debug\net10.0\Matriz3.dll
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\obj\Debug\net10.0\refint\Matriz3.dll
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\obj\Debug\net10.0\Matriz3.pdb
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\obj\Debug\net10.0\Matriz3.genruntimeconfig.cache
+C:\Users\jadg\Desktop\IPG3\Introduccion_Programacion_G3\Matriz3\obj\Debug\net10.0\ref\Matriz3.dll
